@@ -1,0 +1,27 @@
+table{
+    text-align: center;
+}
+
+th{
+        background-color: darkorchid ;
+        color: white;
+        font-size: 30px;
+    }
+ tr:nth-child(odd){
+     background-color: peachpuff;
+     color:black;
+     padding:  30px;
+     
+ }   
+ tr:nth-child(even){
+     background-color: lightcyan;
+     color: black;
+ }
+
+tr:hover{
+    background-color: rosybrown;
+    color: white;
+    font-size: 20px;
+}
+
+    
